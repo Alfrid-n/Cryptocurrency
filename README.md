@@ -10,13 +10,13 @@
 
 ## 代码仓库链接
 
-https://github.com/Alfrid-n/Cryptocurrencies
+https://github.com/Alfrid-n/Cryptocurrency
 
 ## 第一课代码
 
 ### 代码 commint 地址
 
-https://github.com/Alfrid-n/Cryptocurrencies/commit
+https://github.com/Alfrid-n/Cryptocurrency/commit
 
 ### 代码截图
 ![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/1.png)
