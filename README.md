@@ -21,9 +21,9 @@ https://github.com/Alfrid-n/Cryptocurrencies/commit/main
 ### 代码截图
 
 ![image]
-(https://github.com/Alfrid-n/Cryptocurrencies/src/public/1.png)
+(https://github.com/Alfrid-n/Cryptocurrencies/blob/master/src/public/1.png)
 ![image]
-(https://github.com/Alfrid-n/Cryptocurrencies/src/public/2.png)
+(https://github.com/Alfrid-n/Cryptocurrencies/blob/master/src/public/2.png)
 
 ### 主观与讨论题内容
 
