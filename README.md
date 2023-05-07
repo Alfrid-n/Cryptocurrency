@@ -19,11 +19,8 @@ https://github.com/Alfrid-n/Cryptocurrencies
 https://github.com/Alfrid-n/Cryptocurrencies/commit/main
 
 ### 代码截图
-https://pan.baidu.com/s/1pkB5db6BxJkR7qjX4U_BXg
-![image]
-(https://github.com/Alfrid-n/Cryptocurrencies/blob/master/src/public/1.png)
-![image]
-(https://github.com/Alfrid-n/Cryptocurrencies/blob/master/src/public/2.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/1.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/2.png)
 
 ### 主观与讨论题内容
 
