@@ -16,7 +16,7 @@ https://github.com/Alfrid-n/Cryptocurrencies
 
 ### 代码 commint 地址
 
-https://github.com/Alfrid-n/Cryptocurrencies/commit/main
+https://github.com/Alfrid-n/Cryptocurrencies/commit
 
 ### 代码截图
 ![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/1.png)
