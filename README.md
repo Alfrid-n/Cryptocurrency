@@ -77,38 +77,23 @@ https://github.com/Alfrid-n/Cryptocurrency/commit/781c74613bd0a0585be9fc60aef4af
 
 7. 其他技术手段：如通过分布式存储降低磁盘访问时间、使用高效的数据传输方式、加强安全防护等也可以提高挖矿效率。
 
----
-
 ## 第三课代码
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/Alfrid-n/Cryptocurrency/commit/edf2410a7549fa9d5e1843dba25fa642c436d637
 
 ### 代码截图
-
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/1.png)
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/master/src/public/2.png)
-
-### 主观与讨论题内容
-
----
-
-## 第三课代码
-
-### 代码 commint 地址
-
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
-
-### 代码截图
-
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
-
-### 主观与讨论题内容
-
----
+Block
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson3/src/public/L3-1.jpg)
+BlockChain
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson3/src/public/L3-2.jpg)
+UTXO
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson3/src/public/L3-3.jpg)
+UTXOPool
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson3/src/public/L3-4.jpg)
+结果
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson3/src/public/L3-5.jpg)
 
 ## 第四课代码
 
