@@ -114,7 +114,7 @@ UTXO
 UTXOPool
 ![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-5.png)
 utils
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-.6png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-6.png)
 结果
 ![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-7.png)
 ### 主观与讨论题内容
