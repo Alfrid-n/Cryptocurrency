@@ -6,7 +6,7 @@
 - 2021131133-虞子岳
 - 2021131136-张佳伟
 - 2021131134-陈凯翔
-- 2021131146 -祝子傑
+- 2021131146-祝子傑
 
 ## 代码仓库链接
 
@@ -104,19 +104,19 @@ https://github.com/Alfrid-n/Cryptocurrency/pull/4/commits/7f37939d79f5887010aee2
 ### 代码截图
 
 Block
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-1.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-1.png)
 BlockChain
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-2.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-2.png)
 Transaction
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-3.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-3.png)
 UTXO
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-4.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-4.png)
 UTXOPool
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-5.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-5.png)
 utils
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-.6jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-.6png)
 结果
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-7.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/4-7.png)
 ### 主观与讨论题内容
 #### 字典树优缺点
 字典树（Trie树）是一种用于字符串查找的数据结构，它的优点和缺点如下：
