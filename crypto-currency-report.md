@@ -16,11 +16,10 @@ https://github.com/Alfrid-n/Cryptocurrency
 
 ### 代码 commint 地址
 
-https://github.com/Alfrid-n/Cryptocurrency/commit/453e4f2175103864686ebfd8e24faca19ff84145
+https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/work/merkleTree.js
 
 ### 代码截图
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson2/src/public/1.png)
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson2/src/public/2.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson1/src/public/s-1.jpg)
 
 ### 主观与讨论题内容
 
