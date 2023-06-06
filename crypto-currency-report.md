@@ -19,7 +19,7 @@ https://github.com/Alfrid-n/Cryptocurrency
 https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/work/merkleTree.js
 
 ### 代码截图
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson1/src/public/s-1.jpg)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/s-1.jpg)
 
 ### 主观与讨论题内容
 
