@@ -21,5 +21,22 @@ https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/work/merkleTree.js
 ### 代码截图
 ![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/s-1.jpg)
 
-### 主观与讨论题内容
+## 第二课代码
+
+### 代码 commint 地址
+
+https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/work/TrieNode.js
+
+### 代码截图
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/s-2.jpg)
+
+## 第三课代码
+
+### 代码 commint 地址
+
+https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/work/MPT.js
+
+### 代码截图
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson4/src/public/s-3.jpg)
+
 
