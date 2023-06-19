@@ -177,13 +177,13 @@ https://github.com/Alfrid-n/Cryptocurrency/pull/6/commits/7ac096808927779ebeb0b2
 ### 代码截图
 
 Block
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/1.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/1.jpg)
 BlockChain
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/2.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/2.jpg)
 UTXOPool
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/3.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/4.jpg)
 结果
-![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/5.png)
+![image](https://github.com/Alfrid-n/Cryptocurrency/blob/lesson6/src/public/5.jpg)
 
 ### 主观与讨论题内容
 
